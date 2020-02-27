@@ -1,0 +1,14 @@
+Name: Ernesto	Silva
+19, Male, Blanching Rash
+3
+N/A
+waiting time:27177ms
+Alertness Level: A
+Pain Level: 4
+Vital Sign Assessment
+	HR: 56 Bradycardia
+	BP: 106/67 Normal
+	RR: 16 Normal
+	Temperature: 98.1
+	SO2: 88% Low
+

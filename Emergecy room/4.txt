@@ -1,0 +1,14 @@
+Name: Carrie Conner
+25, Female, Difficulty Walking
+2
+Neurologist
+waiting time:24330ms
+Alertness Level: A
+Pain Level: 3
+Vital Sign Assessment
+	HR: 104 Normal
+	BP: 113/75 Normal
+	RR: 16 Normal
+	Temperature: 96.1
+	SO2: 92% Normal
+

@@ -1,0 +1,14 @@
+Name: Jennifer Salazar
+34, Female, Acute Confusion
+3
+Neurologist
+waiting time:15905ms
+Alertness Level: V
+Pain Level: 0
+Vital Sign Assessment
+	HR: 83 Normal
+	BP: 120/78 Normal
+	RR: 20 Normal
+	Temperature: 98.6
+	SO2: 99% Normal
+

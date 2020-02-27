@@ -1,0 +1,14 @@
+Name: Micheal Cain
+78, Male, Neck Pain
+3
+N/A
+waiting time:12145ms
+Alertness Level: A
+Pain Level: 10
+Vital Sign Assessment
+	HR: 80 Normal
+	BP: 120/80 Normal
+	RR: 16 Normal
+	Temperature: 98.1
+	SO2: 100% Normal
+

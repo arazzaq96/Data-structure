@@ -1,0 +1,14 @@
+Name: Traci Briggs
+34, Female, Intoxicated
+3
+N/A
+waiting time:11006ms
+Alertness Level: V
+Pain Level: 0
+Vital Sign Assessment
+	HR: 98 Normal
+	BP: 121/65 Normal
+	RR: 20 Normal
+	Temperature: 98.5
+	SO2: 99% Normal
+

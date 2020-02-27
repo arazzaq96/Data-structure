@@ -1,0 +1,14 @@
+Name: Jeffery	Allison
+25, Male, Intoxicated
+3
+N/A
+waiting time:9715ms
+Alertness Level: V
+Pain Level: 0
+Vital Sign Assessment
+	HR: 100 Normal
+	BP: 130/78 Normal
+	RR: 18 Normal
+	Temperature: 98.6
+	SO2: 98% Normal
+

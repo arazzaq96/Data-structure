@@ -1,0 +1,14 @@
+Name: Cesar Nunez
+99, Male, Unresponsive
+3
+N/A
+waiting time:8051ms
+Alertness Level: U
+Pain Level: -
+Vital Sign Assessment
+	HR: 30 Bradycardia
+	BP: 80/20 Hypotension
+	RR: 10 Bradypnea
+	Temperature: 95.5
+	SO2: 80% Low
+

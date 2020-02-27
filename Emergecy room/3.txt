@@ -1,0 +1,14 @@
+Name: Theresa Ortega
+55, Female, Left Arm Pain
+2
+Cardiologist
+waiting time:7313ms
+Alertness Level: A
+Pain Level: 6
+Vital Sign Assessment
+	HR: 120 Normal
+	BP: 100/55 Hypotension
+	RR: 20 Normal
+	Temperature: 99.2 (Fever)
+	SO2: 95% Normal
+

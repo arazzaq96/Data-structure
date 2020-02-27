@@ -1,0 +1,14 @@
+Name: Herman Osborne
+43, Male, Bleeding from the hand
+2
+N/A
+waiting time:14784ms
+Alertness Level: A
+Pain Level: 10
+Vital Sign Assessment
+	HR: 101 Tachycardia
+	BP: 135/98 Hypertension
+	RR: 24 Tachypnea
+	Temperature: 98.1
+	SO2: 100% Normal
+

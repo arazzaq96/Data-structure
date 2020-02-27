@@ -1,0 +1,14 @@
+Name: Marc Montgomery
+77, Male, Stomach Pain
+3
+Oncologist
+waiting time:13238ms
+Alertness Level: A
+Pain Level: 10
+Vital Sign Assessment
+	HR: 84 Tachycardia
+	BP: 130/77 Normal
+	RR: 22 Tachypnea
+	Temperature: 98.6
+	SO2: 98% Normal
+

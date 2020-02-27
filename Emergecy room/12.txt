@@ -1,0 +1,14 @@
+Name: Beth Long
+45, Male, Stomach Pain
+3
+N/A
+waiting time:8494ms
+Alertness Level: A
+Pain Level: 10
+Vital Sign Assessment
+	HR: 100 Normal
+	BP: 120/56 Hypotension
+	RR: 16 Normal
+	Temperature: 101.7 (Fever)
+	SO2: 95% Normal
+

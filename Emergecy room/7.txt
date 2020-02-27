@@ -1,0 +1,14 @@
+Name: Ken	Jefferson
+60, Male, Unresponsive
+3
+N/A
+waiting time:17757ms
+Alertness Level: U
+Pain Level: -
+Vital Sign Assessment
+	HR: 44 Bradycardia
+	BP: 100/50 Hypotension
+	RR: 10 Bradypnea
+	Temperature: 104.4 (Fever)
+	SO2: 81% Low
+

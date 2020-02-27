@@ -1,0 +1,14 @@
+Name: Arthur King
+12, Male, Headache
+3
+N/A
+waiting time:11330ms
+Alertness Level: A
+Pain Level: 10
+Vital Sign Assessment
+	HR: 77 Normal
+	BP: 131/80 Normal
+	RR: 20 Normal
+	Temperature: 104.1 (Fever)
+	SO2: 100% Normal
+
